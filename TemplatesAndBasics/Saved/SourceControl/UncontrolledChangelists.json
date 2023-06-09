@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bchan/Documents/00 - Git Directories/TA-UnrealCPlus/TemplatesAndBasics/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/bchan/Documents/00 - Git Directories/TA-UnrealCPlus/TemplatesAndBasics/Content/StarterContent/Blueprints/BP_FinishLine.uasset",
+				"C:/Users/bchan/Documents/00 - Git Directories/TA-UnrealCPlus/TemplatesAndBasics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/CH/Q0H0EAWCPH3ER1ATZY7QLU.uasset"
+			]
+		}
+	]
+}
