@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/bchan/Documents/00 - Git Directories/TA-UnrealCPlus/UnrealLearningKit/UnrealLearningKit/Content/Hour_of_Code/Static_Meshes/SM_Platform_M.uasset",
-				"C:/Users/bchan/Documents/00 - Git Directories/TA-UnrealCPlus/UnrealLearningKit/UnrealLearningKit/Content/Hour_of_Code/Maps/Level_HOC_world.umap"
+				"C:/Users/bchan/Documents/00 - Git Directories/TA-UnrealCPlus/UnrealLearningKit/UnrealLearningKit/Content/Hour_of_Code/Maps/Level_HOC_world.umap",
+				"C:/Users/bchan/Documents/00 - Git Directories/TA-UnrealCPlus/UnrealLearningKit/UnrealLearningKit/Content/Hour_of_Code/Sequences/S_movingPlatforms.umap",
+				"C:/Users/bchan/Documents/00 - Git Directories/TA-UnrealCPlus/UnrealLearningKit/UnrealLearningKit/Content/Hour_of_Code/Sequences/S_movingPlatforms.uasset"
 			]
 		}
 	]
