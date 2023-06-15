@@ -3270,3 +3270,23 @@ Script Stack (0 frames) :
 [2023.06.15-00.57.46:625][652]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FinishPlatform.FinishPlatform
 [2023.06.15-00.57.46:625][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.06.15-00.57.46:626][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.15-00.59.16:616][150]BlueprintLog: New page: Compile FinishPlatform
+[2023.06.15-00.59.16:697][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.06.15-00.59.17:242][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.15-00.59.17:497][159]LogSavePackage: Moving output files for package: /Game/Blueprints/FinishPlatform
+[2023.06.15-00.59.17:498][159]LogSavePackage: Moving '../../../../../Users/bchan/Documents/00 - Git Directories/TA-UnrealCPlus/FinalGameSubmission/Saved/FinishPlatformD92CC2324C239C2370B281A1D8817B07.tmp' to '../../../../../Users/bchan/Documents/00 - Git Directories/TA-UnrealCPlus/FinalGameSubmission/Content/Blueprints/FinishPlatform.uasset'
+[2023.06.15-00.59.17:520][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 277 ms (total: 2.27 sec)
+[2023.06.15-00.59.17:531][159]AssetCheck: New page: Asset Save: FinishPlatform
+[2023.06.15-00.59.17:531][159]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FinishPlatform.FinishPlatform
+[2023.06.15-00.59.35:276][793]BlueprintLog: New page: Compile FinishPlatform
+[2023.06.15-00.59.35:346][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.06.15-00.59.36:045][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.15-00.59.36:228][810]LogSavePackage: Moving output files for package: /Game/Blueprints/FinishPlatform
+[2023.06.15-00.59.36:229][810]LogSavePackage: Moving '../../../../../Users/bchan/Documents/00 - Git Directories/TA-UnrealCPlus/FinalGameSubmission/Saved/FinishPlatform0EB4B16F455487C443B00F8B24E213F0.tmp' to '../../../../../Users/bchan/Documents/00 - Git Directories/TA-UnrealCPlus/FinalGameSubmission/Content/Blueprints/FinishPlatform.uasset'
+[2023.06.15-00.59.36:244][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 2.47 sec)
+[2023.06.15-00.59.36:249][810]AssetCheck: New page: Asset Save: FinishPlatform
+[2023.06.15-00.59.36:250][810]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FinishPlatform.FinishPlatform
+[2023.06.15-00.59.37:724][848]LogSlate: Window 'FinishPlatform' being destroyed
+[2023.06.15-00.59.37:742][848]LogSlate: Window 'FinishPlatform' being destroyed
+[2023.06.15-00.59.37:746][848]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-00.59.37:746][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
